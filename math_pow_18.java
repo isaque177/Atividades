@@ -1,9 +1,0 @@
-package Revisão_math_e_expressões_numéricas;
-
-public class math_pow_18 {
-    public static void main(String[] args) {
-
-        double elev = Math.pow(10,-2);
-        System.out.println(elev);
-    }
-}
